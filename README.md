@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Lekshmi Chandrababu👋
+🎓 MCA Student  
+💻 Beginner in Computer Science  
 
-<!--
-**Lekshmi-Chandrababu/Lekshmi-Chandrababu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📘 Learning Focus
+- C Programming
+- Python
+- Java
+- JavaScript
+- PHP
+- SQL, MySQL & DBMS
+- Data Structures
+ 
+### 🌱 About Me
+I am a beginner in the computer science field, focused on building strong fundamentals.
+I enjoy learning step by step and improving through consistent practice.
 
-Here are some ideas to get you started:
+### 🎯 Goals
+- Strengthen core programming concepts
+- Build beginner-friendly projects
+- Eventually grow into a confident software professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+- Email: lekshmichandrababu186 [at] gmail [dot] com
