@@ -1,23 +1,14 @@
 ## Hi, I'm Lekshmi Chandrababu👋
-🎓 MCA Student  
-💻 Beginner in Computer Science  
+🎓 Final Year MCA Student | 9 CGPA  
+🌱 New to the tech industry, building strong programming fundamentals  
+🐍 Currently learning Python from basics to problem-solving  
+📘 Interested in Machine Learning, Research, and AI (long-term)
 
-### 📘 Learning Focus
-- C Programming
-- Python
-- Java
-- JavaScript
-- PHP
-- SQL, MySQL & DBMS
-- Data Structures
- 
-### 🌱 About Me
-I am a beginner in the computer science field, focused on building strong fundamentals.
-I enjoy learning step by step and improving through consistent practice.
+💡 I believe in consistency, clarity, and learning deeply rather than rushing.
 
 ### 🎯 Goals
 - Strengthen core programming concepts
-- Build beginner-friendly projects
+- Build projects
 - Eventually grow into a confident software professional
 
 ### 📫 Contact
