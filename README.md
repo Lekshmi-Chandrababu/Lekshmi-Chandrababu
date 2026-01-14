@@ -14,4 +14,3 @@
 ### 📫 Contact
 - Email: lekshmichandrababu186 [at] gmail [dot] com
 
-<img src="https://skillicons.dev/icons?i=python,git,html,css" />
