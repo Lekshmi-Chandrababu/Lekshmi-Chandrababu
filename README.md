@@ -15,5 +15,6 @@
 - 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Lekshmi-Chandrababu&show_icons=false&hide_title=true&theme=default)
+![](https://github-readme-stats.vercel.app/api?username=Lekshmi-Chandrababu&show_icons=false&hide_rank=true&hide_border=true&theme=default)
+
 
