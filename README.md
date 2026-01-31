@@ -13,16 +13,16 @@
 ### 📫 Contact
 - Email: lekshmichandrababu186 [at] gmail [dot] com
 
-## 📊 GitHub Dashboard
+## 📊 GitHub Activity Snapshot
+
+- 🗓️ **Active Contributor** – Consistently pushing code and learning daily
+- 🧠 **Primary Focus** – Python, Machine Learning, Core CS concepts
+- 📁 **Project-Oriented** – Hands-on ML and data-driven projects
+- 📈 **Growth Mindset** – Emphasis on clean code, clarity, and depth
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lekshmi-Chandrababu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f92672&icon_color=79ff97&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekshmi-Chandrababu&layout=compact&hide_border=true&bg_color=0d1117&title_color=f92672&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lekshmi-Chandrababu&theme=radical&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Lekshmi-Chandrababu&theme=radical"
+    alt="GitHub Streak"
+  />
 </p>
