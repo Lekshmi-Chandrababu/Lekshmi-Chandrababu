@@ -13,12 +13,5 @@
 ### 📫 Contact
 - Email: lekshmichandrababu186 [at] gmail [dot] com
 
-## 📊 GitHub Activity Snapshot
 
-- 🗓️ **Active Contributor** – Consistently pushing code and learning daily
-- 🧠 **Primary Focus** – Python, Machine Learning, Core CS concepts
-- 📁 **Project-Oriented** – Hands-on ML and data-driven projects
-- 📈 **Growth Mindset** – Emphasis on clean code, clarity, and depth
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Lekshmi-Chandrababu&theme=radical&hide_border=true)
 
