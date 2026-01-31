@@ -17,3 +17,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lekshmi-Chandrababu&theme=dracula)
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lekshmi-Chandrababu&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lekshmi-Chandrababu&theme=tokyonight)
+
