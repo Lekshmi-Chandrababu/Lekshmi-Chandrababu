@@ -20,9 +20,5 @@
 - 📁 **Project-Oriented** – Hands-on ML and data-driven projects
 - 📈 **Growth Mindset** – Emphasis on clean code, clarity, and depth
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Lekshmi-Chandrababu&theme=radical"
-    alt="GitHub Streak"
-  />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Lekshmi-Chandrababu&theme=radical)
+
