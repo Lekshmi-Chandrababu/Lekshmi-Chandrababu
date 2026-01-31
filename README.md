@@ -13,5 +13,6 @@
 ### 📫 Contact
 - Email: lekshmichandrababu186 [at] gmail [dot] com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app)
 
 
