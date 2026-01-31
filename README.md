@@ -13,4 +13,7 @@
 ### 📫 Contact
 - Email: lekshmichandrababu186 [at] gmail [dot] com
 
+## 📌 GitHub Profile Card
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lekshmi-Chandrababu&theme=github)
 
