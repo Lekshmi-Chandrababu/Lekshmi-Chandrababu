@@ -13,3 +13,33 @@
 ### 📫 Contact
 - Email: lekshmichandrababu186 [at] gmail [dot] com
 
+## 📊 GitHub at a Glance
+
+<table>
+  <tr>
+    <td><strong>👩‍💻 Role</strong></td>
+    <td>Final-year MCA Student</td>
+  </tr>
+  <tr>
+    <td><strong>💻 Primary Language</strong></td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td><strong>📦 Public Repositories</strong></td>
+    <td>Growing portfolio of ML & Python projects</td>
+  </tr>
+  <tr>
+    <td><strong>📈 Coding Focus</strong></td>
+    <td>Problem Solving • Machine Learning • Core CS</td>
+  </tr>
+  <tr>
+    <td><strong>🔥 Consistency</strong></td>
+    <td>Actively contributing on GitHub</td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lekshmi-Chandrababu&theme=radical" />
+</p>
