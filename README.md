@@ -13,3 +13,10 @@
 ### 📫 Contact
 - Email: lekshmichandrababu186 [at] gmail [dot] com
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lekshmi-Chandrababu&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lekshmi-Chandrababu&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Lekshmi-Chandrababu&theme=radical)
