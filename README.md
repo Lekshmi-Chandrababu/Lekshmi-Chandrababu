@@ -13,4 +13,8 @@
 ### 📫 Contact
 - Email: lekshmichandrababu186 [at] gmail [dot] com
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lekshmi-Chandrababu&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekshmi-Chandrababu&layout=compact&theme=default" />
+</p>
 
