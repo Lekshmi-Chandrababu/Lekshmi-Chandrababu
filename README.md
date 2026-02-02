@@ -13,5 +13,5 @@
 ### 📫 Contact
 - Email: lekshmichandrababu186 [at] gmail [dot] com
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lekshmi-Chandrababu&theme=default&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Lekshmi-Chandrababu&theme=default&hide_border=true)
 
