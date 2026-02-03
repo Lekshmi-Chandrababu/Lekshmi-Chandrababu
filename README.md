@@ -17,3 +17,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lekshmi-Chandrababu&theme=default&hide_border=true)
 
+![Contribution Graph](https://github.com/Lekshmi-Chandrababu.png)
