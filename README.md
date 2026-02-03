@@ -13,3 +13,7 @@
 ### 📫 Contact
 - Email: lekshmichandrababu186 [at] gmail [dot] com
 
+with:
+  card: stats
+  options: username=Lekshmi-Chandrababu&show_icons=true&hide_rank=true&bg_color=0D1117
+  token: ${{ secrets.GITHUB_TOKEN }}
