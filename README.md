@@ -15,5 +15,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lekshmi-Chandrababu&theme=default&hide_border=true)
+<!--
+![GitHub Streak](https://streak-stats.demolab.com?user=Lekshmi-Chandrababu&theme=default)
+-->
 
