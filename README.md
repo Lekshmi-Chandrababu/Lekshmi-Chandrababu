@@ -15,8 +15,4 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Lekshmi-Chandrababu?style=flat&color=brightgreen" />
-  <img src="https://img.shields.io/github/followers/Lekshmi-Chandrababu?style=flat&color=blue" />
-  <img src="https://img.shields.io/github/repos/Lekshmi-Chandrababu?style=flat&color=lightgrey" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lekshmi-Chandrababu&theme=default&hide_border=true)
