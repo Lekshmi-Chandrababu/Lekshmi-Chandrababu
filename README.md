@@ -13,3 +13,10 @@
 ### 📫 Contact
 - Email: lekshmichandrababu186 [at] gmail [dot] com
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Lekshmi-Chandrababu?style=flat&color=brightgreen" />
+  <img src="https://img.shields.io/github/followers/Lekshmi-Chandrababu?style=flat&color=blue" />
+  <img src="https://img.shields.io/github/repos/Lekshmi-Chandrababu?style=flat&color=lightgrey" />
+</p>
